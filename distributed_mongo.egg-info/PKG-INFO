@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: distributed-mongo
+Version: 0.1.0
+Summary: Distributed MongoDB wrapper with multi-server balancing
+Author: Akira Nakao
+Requires-Python: >=3.10
+Requires-Dist: pymongo>=4.0
+Requires-Dist: certifi
+Requires-Dist: deeplog

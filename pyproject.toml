@@ -1,0 +1,11 @@
+[project]
+name = "distributed-mongo"
+version = "0.1.0"
+description = "Distributed MongoDB wrapper with multi-server balancing"
+authors = [{name="Happy Engineer", email="happiengineer@outlook.com"}]
+dependencies = [
+    "pymongo>=4.0",
+    "certifi",
+    "deeplog"
+]
+requires-python = ">=3.10"

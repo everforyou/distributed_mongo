@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+distributed_mongo/__init__.py
+distributed_mongo/core.py
+distributed_mongo.egg-info/PKG-INFO
+distributed_mongo.egg-info/SOURCES.txt
+distributed_mongo.egg-info/dependency_links.txt
+distributed_mongo.egg-info/requires.txt
+distributed_mongo.egg-info/top_level.txt
